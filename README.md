@@ -1,10 +1,9 @@
-<h2 align="center">Ola sou  o dev Ramon</h2>
+<h2 align="center">Olá !👋 Sou Ramon, um Desenvolvedor Front-End apaixonado por criar interfaces modernas, funcionais e atraentes</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRam0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevRam0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRam0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
